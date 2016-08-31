@@ -1,0 +1,7 @@
+C:\Development\Teknoids\web\Annotations\Teknoids.DataAnnotations\Teknoids.DataAnnotations.Tests\obj\Debug\Teknoids.DataAnnotations.Tests.csprojResolveAssemblyReference.cache
+C:\Development\Teknoids\web\Annotations\Teknoids.DataAnnotations\Teknoids.DataAnnotations.Tests\bin\Debug\Teknoids.DataAnnotations.Tests.dll
+C:\Development\Teknoids\web\Annotations\Teknoids.DataAnnotations\Teknoids.DataAnnotations.Tests\bin\Debug\Teknoids.DataAnnotations.Tests.pdb
+C:\Development\Teknoids\web\Annotations\Teknoids.DataAnnotations\Teknoids.DataAnnotations.Tests\bin\Debug\Teknoids.DataAnnotations.dll
+C:\Development\Teknoids\web\Annotations\Teknoids.DataAnnotations\Teknoids.DataAnnotations.Tests\bin\Debug\Teknoids.DataAnnotations.pdb
+C:\Development\Teknoids\web\Annotations\Teknoids.DataAnnotations\Teknoids.DataAnnotations.Tests\obj\Debug\Teknoids.DataAnnotations.Tests.dll
+C:\Development\Teknoids\web\Annotations\Teknoids.DataAnnotations\Teknoids.DataAnnotations.Tests\obj\Debug\Teknoids.DataAnnotations.Tests.pdb

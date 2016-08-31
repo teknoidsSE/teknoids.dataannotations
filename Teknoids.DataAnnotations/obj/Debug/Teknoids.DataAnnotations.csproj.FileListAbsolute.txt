@@ -1,0 +1,5 @@
+C:\Development\Teknoids\web\Annotations\Teknoids.DataAnnotations\Teknoids.DataAnnotations\obj\Debug\Teknoids.DataAnnotations.csprojResolveAssemblyReference.cache
+C:\Development\Teknoids\web\Annotations\Teknoids.DataAnnotations\Teknoids.DataAnnotations\bin\Debug\Teknoids.DataAnnotations.dll
+C:\Development\Teknoids\web\Annotations\Teknoids.DataAnnotations\Teknoids.DataAnnotations\bin\Debug\Teknoids.DataAnnotations.pdb
+C:\Development\Teknoids\web\Annotations\Teknoids.DataAnnotations\Teknoids.DataAnnotations\obj\Debug\Teknoids.DataAnnotations.dll
+C:\Development\Teknoids\web\Annotations\Teknoids.DataAnnotations\Teknoids.DataAnnotations\obj\Debug\Teknoids.DataAnnotations.pdb
